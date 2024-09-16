@@ -1,15 +1,37 @@
-# Getting Started with Create React App
+# It school news project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the final project from my Web Development course that I learned from one
+of the best developer , great person and awesome teacher from @IT School, Gîrbu Nicolae!!!
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+The project is deployed at [cv-itschool-news.netlify.app](https://cv-itschool-news.netlify.app/).
 
-### `npm start`
+## Local usage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+After downloading/cloning the project , run the folowing commands:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- `npm install`
+- `npr start`
+
+Also, make sure you use your own API key from [Te Guardian API](https://open-platform.theguardian.com/documentation/).
+
+## Features
+
+Inside the project you will find following features:
+
+- Display a category of news
+- Display individual news
+- Add/remove news to favorites
+- Pagination of news
+
+## Concepts
+
+The project covers the following concepts:
+
+- CSS Modules
+- Creating reusable components
+- React hooks (useState, useEffect, useReducer, useContext)
+- Custom hooks
+- Routing
+- State management (Context API + usereducer)
